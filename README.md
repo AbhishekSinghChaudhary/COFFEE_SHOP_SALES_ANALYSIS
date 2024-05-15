@@ -8,7 +8,7 @@ The objective of this project is to utilize the skills and tools of a profession
 3) Performing in-depth analysis using queries and pivot tables.
 4) Creating a visually informative sales dashboard to present key insights and trends.
 
-Through this process, the aim is to provide valuable insights into coffee sales performance, enabling informed decision-making and strategic planning to optimize the coffee shop's sales and overall business operations.
+Through this process, the aim is to provide valuable insights into coffee sales performance, enabling informed decision-making and strategic planning in overall business operations.
 
 Dataset: Sales Dataset
 
